@@ -1,0 +1,40 @@
+{
+    "folders": [
+        {
+            "name": "gym",
+            "path": "/home/jack/repos/gym"
+        },
+        {
+            "name": "softlearning",
+            "path": "/home/jack/repos/softlearning"
+        },
+        {
+            "name": "spinningup",
+            "path": "/home/jack/repos/spinningup"
+        },
+        {
+            "name": "bullet3-master",
+            "path": "/home/jack/repos/bullet3-master"
+        },
+        {
+            "name": "stable-baselines",
+            "path": "/home/jack/repos/stable-baselines"
+        },
+        {
+            "name": "rllab",
+            "path": "/home/jack/repos/rllab"
+        },
+        {
+            "name": "baselines",
+            "path": "/home/jack/repos/baselines"
+        },
+        {
+            "name": "simulations",
+            "path": "/home/jack/Documents/simulations"
+        },
+        {
+            "name": "Youtube-Code-Repository",
+            "path": "/home/jack/repos/Youtube-Code-Repository"
+        }
+    ]
+}
